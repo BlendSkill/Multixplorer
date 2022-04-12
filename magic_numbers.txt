@@ -1,2 +1,2 @@
-portable_executable:23117
-zip:67324752
+portable_executable:exe,scr,sys,dll,fon,cpl,iec,ime,rs,tsp,mz:0:77,90
+zip:zip,aar,apk,docx,epub,ipa,jar,kmz,maff,msix,odp,ods,odt,pk3,pk4,pptx,usdz,vsdx,xlsx,xpi:0:80,75,3,4
